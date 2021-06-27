@@ -76,12 +76,6 @@ h3{
         width: 50%;
     }
 }
-@media (max-height:450px) {
-    .container
-    {
-        grid-template-rows: 15% auto 10%;
-    }
-}
 .card-main{
     grid-area: c;
     width: 100%;
